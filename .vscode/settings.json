@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "BASIC.C": "cpp",
+        "bASIC-ARRAY.C": "cpp",
+        "PRINT-COORDINATE-MATRIX.C": "cpp",
+        "ROW-WITH-MAXIMUM-SUM.C": "cpp",
+        "ROW-WITH-MAXIMUM-1'S.C": "cpp",
+        "ROW-WITH-MAXIMUM-1.C": "cpp",
+        "TRANSPOSE-MATRIX-1.C": "cpp",
+        "TRANSPOSE-2.C": "cpp",
+        "TRANSPOSE-MATRIX-3.C": "cpp",
+        "ROTATE-ARRAY.C": "cpp",
+        "WAVE-PRINTING.C": "cpp",
+        "WAVE-PRINTING(HOR).C": "cpp",
+        "WAVE-PRINTING-HOR.C": "cpp",
+        "BUBBLE-SORT.C": "cpp",
+        "BUBBLE-SORT-.C": "cpp",
+        "BUBBLE-SORT-decending.C": "cpp",
+        "BUBBLE-SORT-ACCENDING.C": "cpp",
+        "SELECTION-SORT.C": "cpp",
+        "INSERTION-SORT.C": "cpp"
+    }
+}
