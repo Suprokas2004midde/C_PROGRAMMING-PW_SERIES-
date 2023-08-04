@@ -18,6 +18,12 @@
         "BUBBLE-SORT-decending.C": "cpp",
         "BUBBLE-SORT-ACCENDING.C": "cpp",
         "SELECTION-SORT.C": "cpp",
-        "INSERTION-SORT.C": "cpp"
+        "INSERTION-SORT.C": "cpp",
+        "NEW.C": "cpp",
+        "TYPEDEF.C": "cpp",
+        "TYPEDEF_STRUCTURE.C": "cpp",
+        "POINTER_PROBLEM.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp",
+        "cOPY_sTRING.C": "cpp"
     }
 }

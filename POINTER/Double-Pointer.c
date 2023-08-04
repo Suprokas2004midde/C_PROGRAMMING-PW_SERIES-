@@ -2,5 +2,5 @@
 int main()
 {
     int a=20;
-    int* x=&a
+    int* x=&a;
 }
