@@ -10,9 +10,9 @@ int main()
     // printf("After ptr++: %d\n", *ptr); // Output: 2
 
     int *ptr2 = arr;
-    // printf("After *ptr++: %d\n", *ptr2++); // Output: 1
-    // printf("After *ptr2: %d\n", *ptr2);   // Output: 2
-    //*ptr2++;
-    printf("%d\n",*ptr2++);
+    printf("After *ptr++: %d\n", *ptr2++); // Output: 1
+    printf("After *ptr2: %d\n", *ptr2++);   // Output: 2
+    *ptr2++;
+    printf("%d\n",*ptr2++);// it will print the current value and then increment this....
     return 0;
 }

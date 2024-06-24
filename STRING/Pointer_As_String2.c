@@ -2,8 +2,11 @@
 #include<string.h>
 int main()
 {
-    char str[]="Suprokas midde";
-    char*str2="Hellow World";
+    char str[]="Suprokas midde";// string declearation with character of array....
+
+    char*str2="Hellow World"; // string declearation with pointer declearation.... 
+
+
     char* ptr=str;// AS IT'S ALREADY AN ADDRESS....
     /* (char *ptr = str  This creates a pointer ptr and assigns it the address of the first 
     element of the array str. Since str is ALREADY AN ADDRESS (the address of the first character

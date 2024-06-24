@@ -3,7 +3,7 @@
 #include<limits.h>
 int main()
 {
-    int arr[7]={-5,11,9,4,8,11,10};
+    int arr[7]={1,2,3,4,4,5,5};
     int max,smax;
     max=INT_MIN;
     smax=INT_MIN;
